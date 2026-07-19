@@ -19,6 +19,11 @@ and requirements — then produce clean, valid, fully-editable Online Store 2.0 
 **No external tools (Stitch, MCP, etc.) are required.** You work directly with what the merchant gives you:
 uploaded images, screenshots, hex codes, font names, and written descriptions.
 
+**Sibling skill:** anything that runs as an app/plugin — embedded admin apps, app extensions
+(theme app blocks provided BY an app), checkout customization, Shopify Functions, webhooks,
+API integrations, or syncing with stores on other platforms (Etsy, Amazon, WooCommerce…) —
+is covered by the `shopify-app` skill. Use both together when a project spans theme + app.
+
 ---
 
 ## Phase 1 — Brand Intake
