@@ -7,8 +7,8 @@ frontmatter for name + trigger description) plus optional `references/` files lo
 
 | Skill | Folder | What it does |
 |---|---|---|
-| `shopify-theme` | `Shopify/` | Shopify **websites**: Liquid themes, OS 2.0 sections/blocks, Theme Editor schemas, brand intake → production-ready theme code. Deep reference: metafields, metaobjects, i18n, cart patterns, Theme Store submission. |
-| `shopify-app` | `shopify-app/` | Shopify **plugins/apps**: CLI + React Router scaffold, Polaris/App Bridge admin UI, GraphQL Admin API, webhooks, all extension surfaces (theme app extensions, checkout UI, Functions, admin, pixels), step-by-step wiring between components, deploy & App Store review. References: full extensions cookbook + multichannel/migration playbook (Etsy, Amazon, eBay, WooCommerce, Hydrogen decision). |
+| `shopify-theme` | `Shopify/` | Shopify **websites**: Liquid themes, OS 2.0 sections/blocks, Theme Editor schemas, brand intake → production-ready theme code. References: deep reference (metafields, metaobjects, i18n, cart patterns, Theme Store submission) + store launch checklist (payments/shipping/taxes, legal, analytics, recommended app stack, QA, go-live). |
+| `shopify-app` | `shopify-app/` | Shopify **plugins/apps**: CLI + React Router scaffold, Polaris/App Bridge admin UI, GraphQL Admin API, webhooks, all extension surfaces (theme app extensions, checkout UI, Functions, admin, pixels), step-by-step wiring between components, deploy & App Store review. References: extensions cookbook · GraphQL Admin API cookbook · billing & App Store launch playbook · multichannel/migration playbook (Etsy, Amazon, eBay, WooCommerce, Hydrogen decision). |
 | `create-routine` | `create-routine/` | Scheduled Claude automations: cron routines, self-contained prompts, delivery to Slack/Telegram/email. |
 | `import-automation` | `import-automation/` | Import automations across connectors (see folder). |
 

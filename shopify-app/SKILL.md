@@ -384,6 +384,11 @@ shopify app deploy          # versions app config + ALL extensions atomically
 
 - **references/extensions-reference.md** — full code templates: theme app extensions, checkout UI
   extensions, Shopify Functions, customer account & admin extensions, web pixels, app proxy.
+- **references/api-cookbook.md** — GraphQL Admin API recipes: pagination, products, metafields &
+  metaobjects, orders/fulfillment, customers, inventory, discounts, bulk operations, rate-limit
+  handling, webhook topic table.
+- **references/billing-launch.md** — pricing models, managed pricing vs Billing API, subscription
+  mutations, feature gating, App Store review rejection reasons, listing optimization, launch sequence.
 - **references/multichannel-playbook.md** — merchant sells elsewhere: migration to Shopify
   (WooCommerce, Etsy, Amazon, eBay, Wix, Square), keeping channels in sync, Marketplace Connect,
   and the Hydrogen/headless decision.

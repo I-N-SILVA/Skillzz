@@ -24,6 +24,11 @@ uploaded images, screenshots, hex codes, font names, and written descriptions.
 API integrations, or syncing with stores on other platforms (Etsy, Amazon, WooCommerce…) —
 is covered by the `shopify-app` skill. Use both together when a project spans theme + app.
 
+**References in this skill:** `references/deep-reference.md` (metafields, metaobjects, app blocks,
+i18n, cart patterns, Theme Store submission) · `references/store-launch-checklist.md` (post-build:
+store settings, payments/shipping/taxes, legal pages, domain/analytics, recommended app stack,
+pre-launch QA, go-live).
+
 ---
 
 ## Phase 1 — Brand Intake
