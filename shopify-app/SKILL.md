@@ -392,3 +392,7 @@ shopify app deploy          # versions app config + ALL extensions atomically
 - **references/multichannel-playbook.md** — merchant sells elsewhere: migration to Shopify
   (WooCommerce, Etsy, Amazon, eBay, Wix, Square), keeping channels in sync, Marketplace Connect,
   and the Hydrogen/headless decision.
+- **references/worked-example-reviews-app.md** — one complete build (reviews plugin) wiring
+  admin UI + Prisma + metafields + theme app extension + app proxy + webhooks end to end.
+- **references/hydrogen-quickstart.md** — custom React storefront: scaffold, Storefront API,
+  cart, customer accounts, Oxygen deploy, what still works headless (and what doesn't).
